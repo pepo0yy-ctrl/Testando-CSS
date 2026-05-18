@@ -1,4 +1,4 @@
-##🎬 Meu Portal de Entretenimento Digital
+## 🎬 Meu Portal de Entretenimento Digital
 Um projeto simples em HTML e CSS que organiza conteúdos de Filmes e Séries, Música e Podcasts e Games e Tecnologia em um layout responsivo e estilizado.
 
 ## 🛠️ Tecnologias Utilizadas
